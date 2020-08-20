@@ -2,7 +2,7 @@
 
 ## 写作计划
 
-1. [入学篇——新生报到前后做点什么好]([https://github.com/xiaotianxt/rookie-in-pku/blob/master/%E5%85%A5%E5%AD%A6%E7%AF%87/%E5%85%A5%E5%AD%A6%E7%AF%87.md](https://github.com/xiaotianxt/rookie-in-pku/blob/master/入学篇/入学篇.md))
+1. [入学篇——新生报到前后做点什么好](https://github.com/xiaotianxt/rookie-in-pku/blob/master/入学篇/入学篇.md)
 2. 采购篇1——显著提升大学生活质量的电子设备
 3. 采购篇2——选购合适自己的电脑
 4. 学习篇1——高效记录和管理笔记/文件
