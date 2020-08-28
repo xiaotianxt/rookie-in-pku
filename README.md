@@ -6,7 +6,7 @@
   1. [入学篇——新生报到前后做点什么好](https://github.com/xiaotianxt/rookie-in-pku/blob/master/入学篇/入学篇.md)
   2. 采购篇1——显著提升大学生活质量的电子设备
   3. [采购篇2——选购合适自己的电脑](https://github.com/xiaotianxt/rookie-in-pku/blob/master/采购篇/采购篇2.md)
-  4. 学习篇1——如何记录和管理笔记/文件
+  4. [学习篇1a——作业笔记也要酷起来](https://github.com/xiaotianxt/rookie-in-pku/blob/master/学习篇/学习篇1a.md)
   5. 学习篇2——高效利用搜索引擎获取知识
   6. 学习篇3——英语学习工具及技巧
   7. 生活篇1——电影资源怎么找？PT站简介
