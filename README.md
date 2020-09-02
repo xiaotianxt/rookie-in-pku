@@ -16,3 +16,7 @@
   1. 没钱买MacBook的我只好安装黑苹果
   2. 树莓派不仅可以做软路由
   3. Latex和VIM助力学习
+
+## Lisence
+
+期待大家共同完善、核对内容；欢迎转载、修改，但**需注明原作者**，并采用`GNU General Public License v3.0`开源协议。
