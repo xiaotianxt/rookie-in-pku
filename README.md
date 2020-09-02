@@ -8,7 +8,7 @@
   3. [采购篇2——选购合适自己的电脑](https://github.com/xiaotianxt/rookie-in-pku/blob/master/采购篇/采购篇2.md)
   4. [学习篇1a——作业笔记也要酷起来](https://github.com/xiaotianxt/rookie-in-pku/blob/master/学习篇/学习篇1a.md)
      - [如何使用Word模板](https://github.com/xiaotianxt/rookie-in-pku/blob/master/学习篇/如何使用Word模板.md)
-     - [如何白嫖Microsoft 365账号](https://github.com/xiaotianxt/rookie-in-pku/blob/master/学习篇/如何白嫖Microsoft 365账号.md)
+     - [如何白嫖Microsoft 365账号](https://github.com/xiaotianxt/rookie-in-pku/blob/master/学习篇/如何白嫖Microsoft%20365账号.md)
   5. 学习篇2——高效利用搜索引擎获取知识
   6. 学习篇3——英语学习工具及技巧
   7. [生活篇1——电影资源怎么找？PT站简介](https://github.com/xiaotianxt/rookie-in-pku/blob/master/生活篇/生活篇1.md)
