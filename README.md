@@ -9,7 +9,7 @@
   4. [学习篇1a——作业笔记也要酷起来](https://github.com/xiaotianxt/rookie-in-pku/blob/master/学习篇/学习篇1a.md)
   5. 学习篇2——高效利用搜索引擎获取知识
   6. 学习篇3——英语学习工具及技巧
-  7. 生活篇1——电影资源怎么找？PT站简介
+  7. [生活篇1——电影资源怎么找？PT站简介](https://github.com/xiaotianxt/rookie-in-pku/blob/master/生活篇/生活篇1——找电影、搜资料，看这一篇就够了.md)
   8. 生活篇2——你知道校园网其实是千兆吗？
   9. 生活篇3——校园内如何做到多设备高效联动？（Windows--Linux--MacOS--Android--IOS）
 - 高阶
