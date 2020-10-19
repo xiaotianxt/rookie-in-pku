@@ -20,7 +20,8 @@
   2. 树莓派不仅可以做软路由
   3. Latex和VIM助力学习
 - 随笔
-  1. 选课、转专业建议
+  1. [选课、转专业建议](https://github.com/xiaotianxt/rookie-in-pku/blob/master/%E5%AD%A6%E4%B9%A0%E7%AF%87/%E4%B8%80%E4%BA%9B%E9%80%89%E8%AF%BE%E3%80%81%E8%BD%AC%E4%B8%93%E4%B8%9A%E5%BB%BA%E8%AE%AE.md)
+  2. [出入校自动报备——PKUAutoSubmit](https://github.com/xiaotianxt/rookie-in-pku/blob/master/%E5%85%B6%E4%BB%96/%E5%87%BA%E5%85%A5%E6%A0%A1%E8%87%AA%E5%8A%A8%E6%8A%A5%E5%A4%87/%E5%87%BA%E5%85%A5%E6%A0%A1%E8%87%AA%E5%8A%A8%E6%8A%A5%E5%A4%87%E2%80%94%E2%80%94PKUAutoSubmit.md)
 
 ## Lisence
 
